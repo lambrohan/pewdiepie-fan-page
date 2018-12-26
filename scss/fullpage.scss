@@ -1,0 +1,38 @@
+#section-1{
+  background-image: url('https://cdn.shopify.com/s/files/1/2321/0267/products/t-shirt-together_1024x1024@2x.jpg?v=1533305726');
+  background-size: cover;
+  h1{
+    font-size: 5rem;
+    
+  }
+  .felix{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+  }
+  .marzia{
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+    
+  }
+}
+
+#section-2{
+  background-image: url('http://festivalbananada.com.br/wp-content/uploads/2018/02/480503f804913623c6d6bb6bdf7d7864.jpg');
+  background-size: cover;
+
+  h1{
+    width: 50%;
+    background-color: #fff;
+    text-align: center;
+    margin:0 auto;
+    padding: 16px 0;
+    transition: all 0.3s linear;
+  }
+  h1:hover{
+    cursor: pointer;
+    color: pink;
+    background-color: #1c1d1e;
+  }
+}
