@@ -10,8 +10,9 @@ $(document).ready(function() {
     showActiveTooltip: false,
     slidesNavigation: false,
     slidesNavPosition: 'bottom',
-    sectionsColor: ['#f2f2f2', '#4BBFC3', '#7BAABE', 'whitesmoke', '#000'],
+    sectionsColor: ['#f2f2f2', 'pink', '#7BAABE', 'whitesmoke', '#000'],
     css3:true,
+    
 
 	});
 
